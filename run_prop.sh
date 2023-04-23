@@ -1,0 +1,2 @@
+python run_experiment_propagation.py
+python run_experiment_noprop.py
